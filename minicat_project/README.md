@@ -39,7 +39,7 @@ Make sure you are running on an **Ubuntu x86_64 Linux** environment with the GNU
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/ankurkundu216-del/assembly_learning.git]
+git clone https://github.com/ankurkundu216-del/assembly_learning.git
 cd assembly_learning/minicat_project
 ```
 
